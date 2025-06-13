@@ -1,0 +1,9 @@
+{
+  "spam_count": 2,
+  "positive_spam": 2,
+  "neutral_spam": 0,
+  "negative_spam": 0,
+  "positive_not_spam": 1,
+  "neutral_not_spam": 0,
+  "negative_not_spam": 1
+}
