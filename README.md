@@ -43,18 +43,24 @@ docs/
 ## Screenshots
 
 ### Data Analysis
+
 ![Data Distribution](screenshots/data_crawled.png)
+
 *Chart showing the distribution of data statuses*
 
 ### API Example
+
 ![API Response](screenshots/sample_api.png)
+
 *Example of API response data*
 
 ### Application Screenshots
+
 ![Main Screen 1](screenshots/main_screen1.png)
+
 ![Main Screen 2](screenshots/main_screen2.png)
+
 ![Main Screen 3](screenshots/main_screen3.png)
-![Main Screen 4](screenshots/main_screen4.png)
-![Main Screen 5](screenshots/main_screen5.png)
+
 *Various screenshots demonstrating the application interface and functionality*
 
